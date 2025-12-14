@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on building new projects<br>👯 I’m looking to collaborate on<br>🌱 I’m currently learning "React"<br>💬 Ask me about Java, C++,JavaScript, React, HTML, CSS, Python
+🔭 I’m currently working on building new projects<br>🌱 I’m currently learning "React"<br>💬 Ask me about Java, C++,JavaScript, React, HTML, CSS, Python
 
 
 ## 🌐 Socials:
