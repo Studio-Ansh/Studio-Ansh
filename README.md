@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🔭 I’m currently working on building new projects<br>🌱 I’m currently learning "React"<br>💬 Ask me about Java, C++,JavaScript, React, HTML, CSS, Python
 
 
